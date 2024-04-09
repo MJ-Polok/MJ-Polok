@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am a little web developer. And learning.
+Hi, I am a MERN Stack web developer.
 
 
 ## 🌐 Socials:
