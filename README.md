@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I am a MERN Stack developer.
 
 
